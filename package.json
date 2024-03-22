@@ -1,0 +1,19 @@
+{
+  "name": "timecapsule",
+  "version": "1.0.0",
+  "description": "timecapsuleproductions.com familly portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somastack/timecapsule.git"
+  },
+  "author": "AJ Walder & Larra Lapid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somastack/timecapsule/issues"
+  },
+  "homepage": "https://github.com/somastack/timecapsule#readme"
+}
