@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/somastack/timecapsule/issues"
   },
-  "homepage": "https://github.com/somastack/timecapsule#readme"
+  "homepage": "https://github.com/somastack/timecapsule#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
 }
